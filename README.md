@@ -6,20 +6,20 @@
 
 Репозиторий содержит следующие элементы:
 
-1. Актуальный [план лекций с полезными ссылками](https://github.com/profitware/webdev-coaching/blob/master/plan/lectures_ru.md).
-2. Актуальный [план практических занятий](https://github.com/profitware/webdev-coaching/blob/master/plan/practice_ru.md).
-3. Референсные файлы [HTML, CSS, etc.](https://github.com/profitware/webdev-coaching/tree/master/reference) - их можно использовать как шаблоны для новых файлов.
-4. По мере разработки курса, сюда будут добавлены полезные рекомендации, шаблоны для бэкэнда и фронтэнда.
+1. [wiki-страничку с планом лекций и полезными ссылками](https://github.com/dshubenok/itstep-python/wiki).
+2. Актуальный [план практических занятий](https://github.com/dshubenok/itstep-python/wiki).
+3. Табличка с оценками(https://docs.google.com/spreadsheets/d/1prNqt-UgB7AK2fJ-pDh0-WQ3-4WDGBOZTBSuT-WAd1w/edit#gid=0) - их можно использовать как шаблоны для новых файлов.
+4. По мере разработки курса, сюда будут добавлены полезные рекомендации, книги и ссылки.
 
-Соседние репозитарии включают, но не ограничиваются:
+Соседние репозитории включают, но не ограничиваются:
 
-1. Репозитарием для первого практического занятия: https://github.com/ProfitwareWebDev/webdev-practice
-2. Репозитарием движка хостинга (его можно развернуть и у себя на компьютере): https://github.com/ProfitwareWebDev/webdev-hosting
+1. Репозиторием для первого практического занятия: https://github.com/dshubenok/itstep-python
+2. Репозитарием движка хостинга (его можно развернуть и у себя на компьютере): https://github.com/dshubenok/itstep-python
 
 Принимаются пулл-реквесты. Еще активно принимаются пожелания в issues или на почту.
 
 ## Критерии оценки
 
-Критерии оценки:
+Критерии оценки: бла-бла-бла
 
 Всякое такое. 
