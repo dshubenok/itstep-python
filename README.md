@@ -8,7 +8,7 @@
 
 1. [wiki-страничку с планом лекций и полезными ссылками](https://github.com/dshubenok/itstep-python/wiki).
 2. Актуальный [план практических занятий](https://github.com/dshubenok/itstep-python/wiki).
-3. [Табличка с оценками](https://docs.google.com/spreadsheets/d/1prNqt-UgB7AK2fJ-pDh0-WQ3-4WDGBOZTBSuT-WAd1w/edit#gid=0)
+3. [Таблица с оценками](https://docs.google.com/spreadsheets/d/1prNqt-UgB7AK2fJ-pDh0-WQ3-4WDGBOZTBSuT-WAd1w/edit#gid=0)
 4. По мере разработки курса, сюда будут добавлены полезные рекомендации, книги и ссылки.
 
 Соседние репозитории включают, но не ограничиваются:
